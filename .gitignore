@@ -5,6 +5,7 @@ target/
 !**/src/test/**/target/
 .env
 docker-compose.yml
+requests.http
 
 ### STS ###
 .apt_generated
